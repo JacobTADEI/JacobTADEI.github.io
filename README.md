@@ -6,7 +6,7 @@ Un terminal est le point d'accès entre un utilisateur et un ordinateur ou un r�
 Dans un fichiers "README.md" il existe plusieurs éléments de mise en page.
 Nous avons d'abord le "#" qui permet d'écrire des titres pour organiser son fichier. Plus on met de "#" à la suite plus le titre sera petit, nous pouvons aller jusqu'à 6 maximum.
 Nous avons aussi "*" qui permet d'écrire un texte en italique si l'on en met une au début d'un mot ou d'une phrase et une à la fin d'un mot comme ceci. "*" permet aussi d'écrire un texte en gras en en mettant deux début d'un mot ou d'une phrase et deux à la fin.
-Nous pouvons également parler de cet élément : "[mot]: <"URL">" qui permet de rendre le mot entre crochet en lien cliquable avec l'url que l'on mettra entre crochet. De pus dès que l'on écrira ce "mot" il sera automatiquement relier au lien mit dans "URL".
+Nous pouvons également parler de cet élément : "[mot]: <"URL">" qui permet de rendre le mot entre crochet en lien cliquable avec l'url que l'on mettra entre crochet. De plus dès que l'on écrira ce "mot" il sera automatiquement relier au lien mit dans "URL".
 
 ### Question 3
 "px" signifie "pixels". Le pixel est l'unité "absolue" de tout élément. Chaque écran à sa propre taille de pixel, pare exemple les écrans dit "4k" ont une résolution de 4090 pixels x 2160 pixels. Mais en réalité leur résolution est plus souvent de 3840 pixels x 2160 pixels.
